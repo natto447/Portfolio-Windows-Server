@@ -75,7 +75,7 @@ empresa.local
         └── TI
 ```
 
-![Estrutura do Active Directory](imagens/04-estrutura-ous.png)
+![Estrutura do Active Directory](imagens/04-Estrutura completa do Active Directory.png)
 
 ## Usuários e grupos
 
