@@ -1,0 +1,21 @@
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Credenciais e arquivos sensíveis
+.env
+*.key
+*.pem
+
+# Arquivos temporários de backup
+*.bak
+*.old
