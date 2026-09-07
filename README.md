@@ -137,7 +137,7 @@ Resolve-DnsName empresa.local
 
 Esses testes foram utilizados para verificar se o cliente conseguia resolver corretamente os nomes do domínio e do controlador de domínio.
 
-![Teste de DNS](Imagens/10-dns.png)
+![Teste de DNS](Imagens/10-DNS.png)
 
 ## DHCP
 
@@ -285,7 +285,7 @@ Testar comunicação com SERVIDORWIN
 
 Esses testes foram importantes para praticar não apenas a configuração do ambiente, mas também a identificação e resolução de problemas.
 
-![Troubleshooting](Imagens/15-troubleshooting.png)
+![Troubleshooting](Imagens/15-Troubleshooting.png)
 
 ## Evidências
 
