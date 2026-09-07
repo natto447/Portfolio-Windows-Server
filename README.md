@@ -111,9 +111,9 @@ Depois do ingresso no domínio, foram realizados testes de:
 * Aplicação de GPO
 * Acesso a recursos compartilhados
 
-![Computadores no domínio](Imagens/07-computadores.png)
+![Computadores no domínio](Imagens/07-Computadores.png)
 
-![Cliente ingressado no domínio](Imagens/08-dominio-cliente.png)
+![Cliente ingressado no domínio](Imagens/08-Dominio-cliente.png)
 
 ## DNS
 
