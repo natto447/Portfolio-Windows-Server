@@ -97,7 +97,7 @@ GG-TI
 
 ![Usuários](Imagens/05-usuarios.png)
 
-![Grupos](Imagens/06-grupos.png)
+![Grupos](Imagens/Imagens/06-grupos.png.)
 
 ## Computadores
 
