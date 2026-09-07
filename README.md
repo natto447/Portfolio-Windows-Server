@@ -111,9 +111,9 @@ Depois do ingresso no domínio, foram realizados testes de:
 * Aplicação de GPO
 * Acesso a recursos compartilhados
 
-![Computadores no domínio](imagens/07-computadores.png)
+![Computadores no domínio](Imagens/07-computadores.png)
 
-![Cliente ingressado no domínio](imagens/08-dominio-cliente.png)
+![Cliente ingressado no domínio](Imagens/08-dominio-cliente.png)
 
 ## DNS
 
@@ -137,7 +137,7 @@ Resolve-DnsName empresa.local
 
 Esses testes foram utilizados para verificar se o cliente conseguia resolver corretamente os nomes do domínio e do controlador de domínio.
 
-![Teste de DNS](imagens/10-dns.png)
+![Teste de DNS](Imagens/10-dns.png)
 
 ## DHCP
 
@@ -156,7 +156,7 @@ A configuração recebida pelo cliente foi verificada com:
 ipconfig /all
 ```
 
-![DHCP](imagens/11-dhcp.png)
+![DHCP](Imagens/11-dhcp.png)
 
 ## Group Policy
 
@@ -178,9 +178,9 @@ gpresult /r
 
 para verificar quais políticas estavam sendo aplicadas ao computador.
 
-![GPO](imagens/12-gpo.png)
+![GPO](Imagens/12-gpo.png)
 
-![GPO aplicada no cliente](imagens/13-gpo-aplicada.png)
+![GPO aplicada no cliente](Imagens/13-gpo-aplicada.png)
 
 ## File Server
 
@@ -196,7 +196,7 @@ As permissões foram trabalhadas utilizando grupos do Active Directory e permiss
 
 Isso permite controlar quais usuários podem acessar, modificar ou apenas visualizar determinados arquivos e pastas.
 
-![File Server](imagens/14-file-server.png)
+![File Server](Imagens/14-file-server.png)
 
 ## PowerShell
 
@@ -285,7 +285,7 @@ Testar comunicação com SERVIDORWIN
 
 Esses testes foram importantes para praticar não apenas a configuração do ambiente, mas também a identificação e resolução de problemas.
 
-![Troubleshooting](imagens/15-troubleshooting.png)
+![Troubleshooting](Imagens/15-troubleshooting.png)
 
 ## Evidências
 
