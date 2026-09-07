@@ -75,7 +75,7 @@ empresa.local
         └── TI
 ```
 
-![Estrutura do Active Directory](imagens/04-activedirectory.png)
+![Estrutura do Active Directory](Imagens/04-activedirectory.png)
 
 ## Usuários e grupos
 
@@ -95,9 +95,9 @@ GG-TI
 └── Usuário 3
 ```
 
-![Usuários](imagens/05-usuarios.png)
+![Usuários](Imagens/05-usuarios.png)
 
-![Grupos](imagens/06-grupos.png)
+![Grupos](Imagens/06-grupos.png)
 
 ## Computadores
 
